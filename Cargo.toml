@@ -1,0 +1,11 @@
+[package]
+name = "icon-merger"
+version = "0.1.0"
+authors = ["Rohesie <rohesie@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dmi = { git = "https://github.com/Rohesie/dmi" }
+dont_disappear = "3.0.1"
